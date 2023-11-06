@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hi! Nice to see you</h1>
+<h1 align="center">👋 Hi! Nice to see you </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quagh03&label=Profile%20views&color=0e75b6&style=flat" alt="quagh03" /> </p>
 
 <hr>
 
-<p>Welcome to my GitHub profile! </br> I'm Le Quang Huy. A passionate Sofware Engineer Student from <b>Hanoi, Viet Nam</b></p>
+<p>Welcome to my GitHub profile! </br> I'm Le Quang Huy. A passionate Sofware Engineer Student from <b><i>Hanoi, Viet Nam</i></b> <img width="48" height="48" src="https://img.icons8.com/color/48/vietnam.png" alt="Vietnam"/></p> 
 
 <hr>
 
@@ -51,7 +51,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [running-application-backend](https://github.com/quagh03/running-application-backend)
+- 🔭 I’m currently learning at [Hanoi University of Civil Engineering](https://en.huce.edu.vn/)
 
 - 🌱 I’m currently learning **Spring Boot, Microservice, Cloud Architecture**
 
