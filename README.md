@@ -3,7 +3,7 @@
 
 <hr>
 
-<p>Welcome to my GitHub profile! </br> I'm Le Quang Huy. A passionate Sofware Engineer Student from <b><i>Hanoi, Viet Nam</i></b> <img width="48" height="48" src="https://img.icons8.com/color/48/vietnam.png" alt="Vietnam"/></p> 
+<p>Welcome to my GitHub profile! </br> I'm Le Quang Huy. A passionate Sofware Engineering Student from <b><i>Hanoi, Viet Nam</i></b> <img width="48" height="48" src="https://img.icons8.com/color/48/vietnam.png" alt="Vietnam"/></p> 
 
 <hr>
 
