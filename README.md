@@ -68,8 +68,8 @@
 
 - ⚡ Fun fact **Passionate, Energetic and Ambitious**
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quagh03&show_icons=true&locale=en&layout=compact" alt="quagh03" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quagh03&show_icons=true&locale=en" alt="quagh03" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quagh03&theme=transparent&show_icons=true&locale=en&layout=compact" alt="quagh03" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quagh03&theme=transparent&show_icons=true&locale=en" alt="quagh03" /></p>
 
 <h3>Where to find me</h3>
 <p align="left">
