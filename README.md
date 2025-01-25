@@ -3,7 +3,7 @@
 
 <hr>
 
-<p>Welcome to my GitHub profile! </br> I'm Le Quang Huy. A passionate Sofware Engineering Student from <b><i>Hanoi, Viet Nam</i></b> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Vietnam-Animated.gif"></p>
+<p>Welcome to my GitHub profile! </br> I'm Le Quang Huy. A passionate Sofware Engineering from <b><i>Hanoi, Viet Nam</i></b> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Vietnam-Animated.gif"></p>
 
 <hr>
 
@@ -40,13 +40,11 @@
 
 <h3>More about me</h3>
 
-- 🔭 I’m currently learning at [Hanoi University of Civil Engineering](https://en.huce.edu.vn/)
+- 🔭 I’m graduated from [Hanoi University of Civil Engineering](https://en.huce.edu.vn/)
 
-- 🌱 I’m currently learning **Spring Boot, Microservice, Cloud Architecture**
+- 🌱 I’m currently learning **Spring Boot, Microservice, Cloud Architecture, IAM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/quagh03](https://github.com/quagh03)
-
-- 📝 I regularly write articles on [null](null)
 
 - 💬 Ask me about **Java, Spring Boot**
 
